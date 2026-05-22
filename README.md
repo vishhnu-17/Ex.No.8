@@ -226,4 +226,3 @@ By using detailed and well-crafted prompts, text-to-image generation models can 
 
 ---
 
-## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
